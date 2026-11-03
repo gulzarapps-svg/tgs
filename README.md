@@ -29,3 +29,10 @@ This is a static HTML starter for Cloudflare Pages.
 10. Add `www.tarotgulzarsingh.com` as an additional custom domain and configure the preferred redirect/canonical domain.
 
 Do not share passwords, OTPs, API keys or account recovery codes in chat.
+
+## Daily Guidance page
+- `daily-reading.html` — interactive daily zodiac reflection, numerology theme, tarot card and affirmations.
+- It runs in the visitor's browser. DOB is not submitted to a server or stored by this page.
+- It uses a simplified sun-sign and numerology method, not a full natal chart or live planetary ephemeris.
+- The daily tarot card is consistent for a given DOB and local calendar date, then changes the next day.
+- Upload changed files to the GitHub repository; Cloudflare Pages will deploy each new commit automatically.
